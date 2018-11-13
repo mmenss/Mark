@@ -1,0 +1,181 @@
+
+
+div.amerjul {
+
+  display: inline-block;
+  width: 100%;
+  padding: 40px;
+  margin: auto;
+  border-color: #40506e
+}
+
+h3.jul-greetings {
+  margin: auto;
+  color: #3F414D;
+  font-size: 24px;
+  left: 30px;
+  height: 50px;
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 10px;
+}
+
+.jul-btn-amer {
+  display: block;
+  margin: auto;
+  border-radius: 0px;
+  color: #fff;
+  background: #ED6A4A;
+  padding: 20px 30px 20px 30px;
+  text-decoration: none;
+  width: 250px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.jul-btn-amer:hover {
+  background: #3f424d;
+  text-decoration: none;
+}
+
+.jul-btn-amer a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+  font-family: 'Helvetica Neue';
+  font-weight: normal;
+}
+
+/*############ Color Scheme for the Header ########### */
+
+#section-1-gradient {
+    background: #40506E;
+    background: -webkit-linear-gradient(#40506E, #40506c);
+    height: 300px;
+}
+
+img {
+    /* width: 20%;
+    margin-left: 40%;
+    padding-bottom: 0;
+    display: block; */
+    display: block;
+    margin: auto;
+    height: 220px;
+}
+
+
+h2{
+  text-align: center;
+  font-size: 45px;
+  color: #ffffff;
+  margin: auto;
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+/* ###### ###### ###### ###### */
+
+.h-home-page
+.h-button,
+.h-home-page
+.h-button:visited {
+	width: 200px;
+	display: inline-block;
+  background: #ED6A4A;
+	margin: 4px;
+	color: white;
+	padding: 20px 10px;
+	text-decoration: none;
+  text-align: center;
+}
+
+.h-home-page
+.h-button:hover{
+	background: #3f424d;
+}
+/* SVG Icons */
+.h-home-page
+i.icon{
+	display: inline-block;
+	width: 90px;
+	height: 120px;
+	-webkit-background-size: contain;
+	background-size: contain;
+}
+/* ##### Code for inserting the svg file ######  */
+
+.h-home-page
+.new-request{
+	background: url(new_request.svg) no-repeat center center;
+}
+
+.h-home-page
+.forms{
+	background: url(forms.svg) no-repeat center center;
+}
+/* ##### Code for inserting the svg file ###### End's Here */
+
+
+/* ##### Code for "Hi, how can we help?" ##### */
+.h-home-page
+.greetings{
+	color: #555;
+	font-size: 30px;
+	margin: 40px;
+  text-align: center;
+}
+/* ##### Code for "Hi, how can we help?" ##### End's Here */
+
+/* ### Centerlizing the Submit and View Request Box ### */
+div.h-buttons {
+  text-align: center;
+}
+
+/* ##### Button Section #### */
+
+.button {
+    background-color:#ED6A4A;
+    border: none;
+    color: white;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  	/* margin: 1.3px; */
+    font-size: 16px;
+    cursor: pointer;
+  	width: 200px;
+    margin: 10px 10px 10px 20px;
+    padding: 20px 30px 20px 30px;
+    border-radius: 0px;
+}
+div.office365 {
+  text-align: center;
+
+}
+
+.button:hover{
+  background: #3f424d;
+  text-decoration: none;
+}
+
+
+
+/* FORM STYLES-- hide dropdown list of forms */
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+*{
+  box-sizing: border-box;
+}
